@@ -1,8 +1,0 @@
-.DS_Store
-.gitignore
-.idea/ # 删除本地 .idea 目录（不影响仓库）
-.venv/
-.idea
-books_cleaned.csv
-books_with_categories.csv
-.gitignore
